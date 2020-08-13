@@ -1,8 +1,8 @@
 # my-mac
 Showcase of my workplace MacBook Pro (15-inch, Mid 2015)
 
-![Paid][Paid] means the software requires a payment for continued usage
-![Upgrade][Upgrade] means the software has a paid upgrade, but does not require a payment for continued usage
+![Paid][Paid] means the software requires a payment for continued usage. These come with a free trial.
+![Upgrade][Upgrade] means the software has a paid upgrade, but does not require a payment for continued usage.
 
 ## Software
 
