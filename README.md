@@ -6,6 +6,9 @@ Showcase of my workplace MacBook Pro (15-inch, Mid 2015)
 
 ## Software
 
+### [brew](https://brew.sh/)
+I cannot understate how useful this tool is. It's like the AppStore for the command-line. Download, update, and remove software.
+
 ### [Alfred](https://www.alfredapp.com/) ![Upgrade][Upgrade]
 It's like Spotlight, but better. I use it mainly to switch applications and to do Google searches. The paid version has extra features, but I highly suggest getting it even if you don't want to pay for it.
 
@@ -36,29 +39,62 @@ The best file tansfer thing out there. I use it to transfer files between my com
 
 I've yet to find a Windows alternative that is as good as Transmit.
 
-### todo
-Rectangle (Magnet alternative), MouseDef (in alpha)
+### [Rectangle](https://rectangleapp.com/)
+Resizes any window to some predfined areas with keyboard shortcuts. I maximize (not fullscreen) windows all the time, and often I resize windows to half the screen space.
+
+I previously used Magnet, but it has less features and costs money.
+
+### [MouseDef](https://github.com/zenangst/MouseDef)
+⚠ This software is still in alpha, and it has some bugs.
+
+Allows me to drag and resize any window by hoovering the cursor anywhere on a window and holding either <kbd>⌘</kbd><kbd>⇧</kbd> or <kbd>⌘</kbd><kbd>fn</kbd>. I have a hard time seeing myself going back from this.
+
+This got me so hooked I had to get the [same featureset on my Windows machine](https://github.com/vladdeSV/my-ahk-scripts/blob/master/Scripts/EasyWindowDrag.ahk).
+
+### [PhpStorm](https://www.jetbrains.com/phpstorm/) ![Paid][Paid]
+IDE for web development. I was originally not happy to switch from my other tools, because I thought PhpStorm was a bit clunky.
+
+But holy crap is this tool powerful. I manage my PHP code, SSH connections, and database all through this tool. Love this. It saved my butt multiple times.
+
+### [JetBrains Toolbox](https://www.jetbrains.com/toolbox/)
+To manage JetBrains software, a good compliment when you have their other software.
+
+### [ImageOptim](https://imageoptim.com/)
+A really simple and powerful tool to optimize images. I just plonk any images into this tool and it non-destructively optimizes them. Also allows me to destructively opimize images. Neat tool.
+
+ImageOptim follows the UNIX philosophy; "Do One Thing And Do It Well".
 
 ## Software specifically for work
-
-### [JetBrains Toolbox](https://www.jetbrains.com/toolbox/download/download-thanks.html?platform=mac)
-
-### PhpStorm ![Paid][Paid]
+Some of these tools I only have because of work.
 
 ### [Dropbox](https://www.dropbox.com/downloading)
+Store files in the cloud. Wow.
 
 ### Xcode
+I manage our iOS app, so this is a must.
+
+### Vagrant
+Allows me to spin up a vitrual machine, with the entire config in a single file.
 
 ## Other Software
 
-### [Spotify](https://www.spotify.com/en/download/mac/)
+These things don't really make up for a showcase of tools I suggest you use, but they are part of my daily routine.
 
-### [ImageOptim](https://imageoptim.com/ImageOptim.tbz2)
+### [Spotify](https://www.spotify.com/en/download/mac/) ![Upgrade][Upgrade]
+I listen to a lot of music. The monthly subscription for Spotify Premium is a must for me.
+
+### Visual Studio Code
+All-purpose editor. Very neat. Highly suggest you get.
 
 ## CLI
-
-todo: git exa wget ripgrep
-
+Some command-line tools I use often:
+```
+brew
+git
+exa
+wget
+ripgrep
+```
 ```sh
 defaults write -g KeyRepeat -int 1 # set key repeat delay to fast, but not dummy fast
 defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false # disable changing extension warnings
