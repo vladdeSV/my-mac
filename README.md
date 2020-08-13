@@ -4,6 +4,9 @@ Showcase of my workplace MacBook Pro (15-inch, Mid 2015)
 ![Paid][Paid] means the software requires a payment for continued usage. These come with a free trial.\
 ![Upgrade][Upgrade] means the software has a paid upgrade, but does not require a payment for continued usage.
 
+[Paid]: /resource/paid.svg "Paid software"
+[Upgrade]: /resource/upgrade.svg "Free with upgrade"
+
 ## Software
 
 ### [brew](https://brew.sh/)
@@ -103,5 +106,8 @@ defaults write -g KeyRepeat -int 1 # set key repeat delay to fast, but not dummy
 defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false # disable changing extension warnings
 ```
 
-[Paid]: /resource/paid.svg "Paid software"
-[Upgrade]: /resource/upgrade.svg "Free with upgrade"
+## Inspiration
+This list was inspired by Nikita Voloboev's [`nikitavoloboev/my-mac-os`](https://github.com/nikitavoloboev/my-mac-os).
+
+## License
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) © [Vladimirs Nordholm](https://github.com/vladdeSV)
