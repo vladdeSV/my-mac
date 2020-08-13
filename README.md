@@ -73,7 +73,7 @@ Store files in the cloud. Wow.
 ### Xcode
 I manage our iOS app, so this is a must.
 
-### Vagrant
+### [Vagrant](https://www.vagrantup.com/)
 Allows me to spin up a vitrual machine, with the entire config in a single file.
 
 ## Other Software
@@ -83,18 +83,21 @@ These things don't really make up for a showcase of tools I suggest you use, but
 ### [Spotify](https://www.spotify.com/en/download/mac/) ![Upgrade][Upgrade]
 I listen to a lot of music. The monthly subscription for Spotify Premium is a must for me.
 
-### Visual Studio Code
+### [Visual Studio Code](https://code.visualstudio.com/)
 All-purpose editor. Very neat. Highly suggest you get.
 
 ## CLI
 Some command-line tools I use often:
 ```
-brew
-git
-exa
-wget
-ripgrep
+brew install \
+  fish    # my shell
+  git     # you are viewing this on `git` hub \
+  exa     # much better `ls` alternative \
+  wget    # download file from url. i prefer this over `curl` \
+  ripgrep # faster grep alternative
 ```
+
+Some defaults which I change
 ```sh
 defaults write -g KeyRepeat -int 1 # set key repeat delay to fast, but not dummy fast
 defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false # disable changing extension warnings
