@@ -22,10 +22,10 @@ I use this custom format:
     "eeee d MMMM ('w.'w) | yyyy-MM-dd | ZZZZ | HH:mm (:ss)"
     // "Thursday 13 August (w.33) | 2020-08-13 | GMT+02:00 | 15:24 (:43)"
 
-### [Sublime Text](https://www.sublimetext.com/) ![Upgrade][Upgrade]
+### [Sublime Text](https://www.sublimetext.com/) ![Paid][Paid]
 The text editor I've loved over the years for it's speed. It's fast. It has a wide range of features, but speed is the primary reason I use this. Other GUI editors compare slow to Sublime Text.
 
-### [Sublime Merge](https://www.sublimemerge.com/) ![Upgrade][Upgrade]
+### [Sublime Merge](https://www.sublimemerge.com/) ![Paid][Paid]
 Hands down, the best Git client I've used. I even prefer this over the terminal.
 
 ### [Transmit](https://panic.com/transmit/) ![Paid][Paid]
