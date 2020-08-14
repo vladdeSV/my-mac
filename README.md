@@ -90,7 +90,7 @@ My default browser for work.
 ### [Spotify](https://www.spotify.com/en/download/mac/) ![Upgrade][Upgrade]
 I listen to a lot of music. The monthly subscription for Spotify Premium is a must for me.
 
-### [Visual Studio Code](https://code.visualstudio.com/)
+### [Visual Studio Code](https://code.visualstudio.com/) ![Open-Source][Open-Source]
 All-purpose editor. Very neat. Highly suggest you get.
 
 ## CLI
