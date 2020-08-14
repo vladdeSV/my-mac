@@ -2,10 +2,12 @@
 Showcase of my workplace MacBook Pro (15-inch, Mid 2015)
 
 ![Paid][Paid] means the software requires a payment for continued usage. These come with a free trial.\
-![Upgrade][Upgrade] means the software has a paid upgrade, but does not require a payment for continued usage.
+![Upgrade][Upgrade] means the software has a paid upgrade, but does not require a payment for continued usage.\
+![Open-Source][Open-Source] means the software is open-source.
 
 [Paid]: /resource/paid.svg "Paid software"
 [Upgrade]: /resource/upgrade.svg "Free with upgrade"
+[Open-Source]: /resource/open-source.svg "Open-source sofware"
 
 ## Software
 
@@ -39,12 +41,12 @@ The best file tansfer thing out there. I use it to transfer files between my com
 
 I've yet to find a Windows alternative that is as good as Transmit.
 
-### [Rectangle](https://rectangleapp.com/)
+### [Rectangle](https://rectangleapp.com/) ![Open-Source][Open-Source]
 Resizes any window to some predfined areas with keyboard shortcuts. I maximize (not fullscreen) windows all the time, and often I resize windows to half the screen space.
 
 I previously used Magnet, but it has less features and costs money.
 
-### [MouseDef](https://github.com/zenangst/MouseDef)
+### [MouseDef](https://github.com/zenangst/MouseDef) ![Open-Source][Open-Source]
 ⚠ This software is still in alpha, and it has some bugs.
 
 Allows me to drag and resize any window by hoovering the cursor anywhere on a window and holding either <kbd>⌘</kbd><kbd>⇧</kbd> or <kbd>⌘</kbd><kbd>fn</kbd>. I have a hard time seeing myself going back from this.
@@ -76,7 +78,7 @@ Store files in the cloud. Wow.
 ### Xcode
 I manage our iOS app, so this is a must.
 
-### [Vagrant](https://www.vagrantup.com/)
+### [Vagrant](https://www.vagrantup.com/) ![Open-Source][Open-Source]
 Allows me to spin up a vitrual machine, with the entire config in a single file.
 
 ## Other Software
@@ -93,7 +95,7 @@ All-purpose editor. Very neat. Highly suggest you get.
 
 ## CLI
 
-### [brew](https://brew.sh/)
+### [brew](https://brew.sh/) ![Open-Source][Open-Source]
 I cannot understate how useful this tool is. It's like the AppStore for the command-line. Download, update, and remove software.
 
 Some command-line tools I use often:
