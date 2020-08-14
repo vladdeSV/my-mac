@@ -9,9 +9,6 @@ Showcase of my workplace MacBook Pro (15-inch, Mid 2015)
 
 ## Software
 
-### [brew](https://brew.sh/)
-I cannot understate how useful this tool is. It's like the AppStore for the command-line. Download, update, and remove software.
-
 ### [Alfred](https://www.alfredapp.com/) ![Upgrade][Upgrade]
 It's like Spotlight, but better. I use it mainly to switch applications and to do Google searches. The paid version has extra features, but I highly suggest getting it even if you don't want to pay for it.
 
@@ -67,6 +64,9 @@ A really simple and powerful tool to optimize images. I just plonk any images in
 
 ImageOptim follows the UNIX philosophy; "Do One Thing And Do It Well".
 
+### [LastPass](https://www.lastpass.com/) ![Upgrade][Upgrade]
+Keeps my passwords. Makes my life much easier. I use the free version. Available as an extension to webbrowsers, and as an app for phones.
+
 ## Software specifically for work
 Some of these tools I only have because of work.
 
@@ -80,7 +80,6 @@ I manage our iOS app, so this is a must.
 Allows me to spin up a vitrual machine, with the entire config in a single file.
 
 ## Other Software
-
 These things don't really make up for a showcase of tools I suggest you use, but they are part of my daily routine.
 
 ### [Spotify](https://www.spotify.com/en/download/mac/) ![Upgrade][Upgrade]
@@ -90,6 +89,10 @@ I listen to a lot of music. The monthly subscription for Spotify Premium is a mu
 All-purpose editor. Very neat. Highly suggest you get.
 
 ## CLI
+
+### [brew](https://brew.sh/)
+I cannot understate how useful this tool is. It's like the AppStore for the command-line. Download, update, and remove software.
+
 Some command-line tools I use often:
 ```
 brew install \
