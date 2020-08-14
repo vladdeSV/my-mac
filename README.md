@@ -82,6 +82,9 @@ Allows me to spin up a vitrual machine, with the entire config in a single file.
 ## Other Software
 These things don't really make up for a showcase of tools I suggest you use, but they are part of my daily routine.
 
+### [Google Chrome](https://www.google.com/chrome/)
+My default browser for work.
+
 ### [Spotify](https://www.spotify.com/en/download/mac/) ![Upgrade][Upgrade]
 I listen to a lot of music. The monthly subscription for Spotify Premium is a must for me.
 
