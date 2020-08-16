@@ -75,7 +75,7 @@ Some of these tools I only have because of work.
 ### <img alt="" src="https://simpleicons.org/icons/dropbox.svg" height="15">&nbsp;[Dropbox](https://www.dropbox.com/downloading)
 Store files in the cloud. Wow.
 
-### Xcode
+### <img alt="" src="https://simpleicons.org/icons/xcode.svg" height="15">&nbsp;Xcode
 I manage our iOS app, so this is a must.
 
 ### <img alt="" src="https://simpleicons.org/icons/vagrant.svg" height="15">&nbsp;[Vagrant](https://www.vagrantup.com/) ![Open-Source][Open-Source]
