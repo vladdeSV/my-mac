@@ -30,7 +30,7 @@ I use this custom format:
     "eeee d MMMM ('w.'w) | yyyy-MM-dd | ZZZZ | HH:mm (:ss)"
     // "Thursday 13 August (w.33) | 2020-08-13 | GMT+02:00 | 15:24 (:43)"
 
-### [Sublime Text](https://www.sublimetext.com/) ![Paid][Paid]
+### <img alt="" src="https://simpleicons.org/icons/sublimetext.svg" height="15">&nbsp;[Sublime Text](https://www.sublimetext.com/) ![Paid][Paid]
 The text editor I've loved over the years for it's speed. It's fast. It has a wide range of features, but speed is the primary reason I use this. Other GUI editors compare slow to Sublime Text.
 
 ### [Sublime Merge](https://www.sublimemerge.com/) ![Paid][Paid]
@@ -58,7 +58,7 @@ IDE for web development. I was originally not happy to switch from my other tool
 
 But holy crap is this tool powerful. I manage my PHP code, SSH connections, and database all through this tool. Love this. It saved my butt multiple times.
 
-### [JetBrains Toolbox](https://www.jetbrains.com/toolbox/)
+### <img alt="" src="https://simpleicons.org/icons/jetbrains.svg" height="15">&nbsp;[JetBrains Toolbox](https://www.jetbrains.com/toolbox/)
 To manage JetBrains software, a good compliment when you have their other software.
 
 ### [ImageOptim](https://imageoptim.com/)
@@ -66,31 +66,31 @@ A really simple and powerful tool to optimize images. I just plonk any images in
 
 ImageOptim follows the UNIX philosophy; "Do One Thing And Do It Well".
 
-### [LastPass](https://www.lastpass.com/) ![Upgrade][Upgrade]
+### <img alt="" src="https://simpleicons.org/icons/lastpass.svg" height="15">&nbsp;[LastPass](https://www.lastpass.com/) ![Upgrade][Upgrade]
 Keeps my passwords. Makes my life much easier. I use the free version. Available as an extension to webbrowsers, and as an app for phones.
 
 ## Software specifically for work
 Some of these tools I only have because of work.
 
-### [Dropbox](https://www.dropbox.com/downloading)
+### <img alt="" src="https://simpleicons.org/icons/dropbox.svg" height="15">&nbsp;[Dropbox](https://www.dropbox.com/downloading)
 Store files in the cloud. Wow.
 
 ### Xcode
 I manage our iOS app, so this is a must.
 
-### [Vagrant](https://www.vagrantup.com/) ![Open-Source][Open-Source]
+### <img alt="" src="https://simpleicons.org/icons/vagrant.svg" height="15">&nbsp;[Vagrant](https://www.vagrantup.com/) ![Open-Source][Open-Source]
 Allows me to spin up a vitrual machine, with the entire config in a single file.
 
 ## Other Software
 These things don't really make up for a showcase of tools I suggest you use, but they are part of my daily routine.
 
-### [Google Chrome](https://www.google.com/chrome/)
+### <img alt="" src="https://simpleicons.org/icons/googlechrome.svg" height="15">&nbsp;[Google Chrome](https://www.google.com/chrome/)
 My default browser for work.
 
-### [Spotify](https://www.spotify.com/en/download/mac/) ![Upgrade][Upgrade]
+### <img alt="" src="https://simpleicons.org/icons/spotify.svg" height="15">&nbsp;[Spotify](https://www.spotify.com/en/download/mac/) ![Upgrade][Upgrade]
 I listen to a lot of music. The monthly subscription for Spotify Premium is a must for me.
 
-### [Visual Studio Code](https://code.visualstudio.com/) ![Open-Source][Open-Source]
+### <img alt="" src="https://simpleicons.org/icons/visualstudiocode.svg" height="15">&nbsp;[Visual Studio Code](https://code.visualstudio.com/) ![Open-Source][Open-Source]
 All-purpose editor. Very neat. Highly suggest you get.
 
 ## CLI
@@ -119,3 +119,5 @@ This list was inspired by Nikita Voloboev's [`nikitavoloboev/my-mac-os`](https:/
 
 ## License
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) © [Vladimirs Nordholm](https://github.com/vladdeSV)
+
+App icons provided via [Simple Icons](https://github.com/simple-icons/simple-icons)
