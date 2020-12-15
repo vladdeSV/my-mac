@@ -5,9 +5,9 @@ Showcase of my workplace MacBook Pro (15-inch, Mid 2015)
 ![Upgrade][Upgrade] the software has a paid upgrade, but does not require a payment for continued usage.\
 ![Open-Source][Open-Source] the software is open-source.
 
-[Paid]: /resource/paid.svg?v=2 "Paid software"
-[Upgrade]: /resource/upgrade.svg?v=2 "Free with upgrade"
-[Open-Source]: /resource/open-source.svg?v=2 "Open-source sofware"
+[Paid]: /resource/paid.svg?v=3 "Paid software"
+[Upgrade]: /resource/upgrade.svg?v=3 "Free with upgrade"
+[Open-Source]: /resource/open-source.svg?v=3 "Open-source sofware"
 
 ## Software
 
