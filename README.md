@@ -19,16 +19,16 @@ It's a terminal emulator. When first deciding between emulators, what initially 
 
 *Extra: See my [dotfiles](https://github.com/vladdeSV/dotfiles)*
 
+### [Transmit](https://panic.com/transmit/) ![Paid][Paid]
+The best file tansfer thing out there. I use it to transfer files between my computer and server, between servers, to Dropbox, Google Drive, and whatever else it supports.
+
+I've yet to find a Windows alternative that is as good as Transmit.
+
 ### [Sublime Text](https://www.sublimetext.com/) ![Paid][Paid]
 The text editor I've loved over the years for it's speed. It's fast. It has a wide range of features, but speed is the primary reason I use this. Other GUI editors compare slow to Sublime Text.
 
 ### [Sublime Merge](https://www.sublimemerge.com/) ![Paid][Paid]
 Hands down, the best Git client I've used. I even prefer this over the terminal.
-
-### [Transmit](https://panic.com/transmit/) ![Paid][Paid]
-The best file tansfer thing out there. I use it to transfer files between my computer and server, between servers, to Dropbox, Google Drive, and whatever else it supports.
-
-I've yet to find a Windows alternative that is as good as Transmit.
 
 ### [Rectangle](https://rectangleapp.com/) ![Open-Source][Open-Source]
 Resizes any window to some predfined areas with keyboard shortcuts. I maximize (not fullscreen) windows all the time, and often I resize windows to half the screen space.
@@ -41,11 +41,6 @@ I previously used Magnet, but it has less features and costs money.
 Allows me to drag and resize any window by hoovering the cursor anywhere on a window and holding either <kbd>⌘</kbd><kbd>⇧</kbd> or <kbd>⌘</kbd><kbd>fn</kbd>. I have a hard time seeing myself going back from this.
 
 This got me so hooked I had to get the [same featureset on my Windows machine](https://github.com/vladdeSV/my-ahk-scripts/blob/master/Scripts/EasyWindowDrag.ahk).
-
-### [ImageOptim](https://imageoptim.com/)
-A really simple and powerful tool to optimize images. I just plonk any images into this tool and it non-destructively optimizes them. Also allows me to destructively opimize images. Neat tool.
-
-ImageOptim follows the UNIX philosophy; "Do One Thing And Do It Well".
 
 ## Other Software
 These things don't really make up for a showcase of tools I suggest you use, but they are part of my daily routine.
@@ -61,6 +56,11 @@ All-purpose editor. Very neat. Highly suggest you get.
 
 ### [1Password](https://1password.com/) ![Paid][Paid]
 Keeps my passwords. Makes my life much easier. Available as a stand-alone app, extension to the web browser, and as an app for the phone.
+
+### [ImageOptim](https://imageoptim.com/)
+A really simple and powerful tool to optimize images. I just plonk any images into this tool and it non-destructively optimizes them. Also allows me to destructively opimize images. Neat tool.
+
+ImageOptim follows the UNIX philosophy; "Do One Thing And Do It Well".
 
 ## CLI
 
