@@ -87,8 +87,8 @@ These things don't really make up for a showcase of tools I suggest you use, but
 ### [Google Chrome](https://www.google.com/chrome/)
 My default browser for work.
 
-### [Spotify](https://www.spotify.com/en/download/mac/) ![Upgrade][Upgrade]
-I listen to a lot of music. The monthly subscription for Spotify Premium is a must for me.
+### [Spotify](https://www.spotify.com/en/download/mac/) ![Paid][Paid]
+I listen to a lot of music. The monthly subscription for Spotify Premium is a must for me. Technically free with ads.
 
 ### [Visual Studio Code](https://code.visualstudio.com/) ![Open-Source][Open-Source]
 All-purpose editor. Very neat. Highly suggest you get.
