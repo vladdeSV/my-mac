@@ -50,11 +50,17 @@ ImageOptim follows the UNIX philosophy; "Do One Thing And Do It Well".
 ## Other Software
 These things don't really make up for a showcase of tools I suggest you use, but they are part of my daily routine.
 
+### [Arc](https://arc.net/)
+The most refershing browser I have seen in quite a while, with a mobile alternative too. Unfortunately in closed beta.
+
 ### [Spotify](https://www.spotify.com/en/download/mac/) ![Paid][Paid]
 I listen to a lot of music. The monthly subscription for Spotify Premium is a must for me. Technically free with ads.
 
 ### [Visual Studio Code](https://code.visualstudio.com/) ![Open-Source][Open-Source]
 All-purpose editor. Very neat. Highly suggest you get.
+
+### [1Password](https://1password.com/) ![Paid][Paid]
+Keeps my passwords. Makes my life much easier. Available as a stand-alone app, extension to the web browser, and as an app for the phone.
 
 ## CLI
 
