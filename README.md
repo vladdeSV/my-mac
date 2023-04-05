@@ -1,5 +1,5 @@
 # my-mac
-Showcase of my workplace MacBook Pro (15-inch, Mid 2015)
+Showcase of my MacBook Pro (13-inch, 2017)
 
 ![Paid][Paid] the software requires a payment for continued usage. These come with a free trial.\
 ![Upgrade][Upgrade] the software has a paid upgrade, but does not require a payment for continued usage.\
