@@ -95,23 +95,18 @@ All-purpose editor. Very neat. Highly suggest you get.
 
 ## CLI
 
-### [brew](https://brew.sh/) ![Open-Source][Open-Source]
+### [tea.xyz](https://tea.xyz/) ![Open-Source][Open-Source]
 I cannot understate how useful this tool is. It's like the AppStore for the command-line. Download, update, and remove software.
 
-Some command-line tools I use often:
-```
-brew install \
-  fish    # my shell
-  git     # you are viewing this on `git` hub \
-  exa     # much better `ls` alternative \
-  wget    # download file from url. i prefer this over `curl` \
-  ripgrep # faster grep alternative
+```sh
+sh <(curl https://tea.xyz)
 ```
 
-Some defaults which I change
+### [brew](https://brew.sh/) ![Open-Source][Open-Source]
+My former go-to tool (replaced by tea.xyz). I use this to get some otherwise hard to get tools.
+
 ```sh
-defaults write -g KeyRepeat -int 1 # set key repeat delay to fast, but not dummy fast
-defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false # disable changing extension warnings
+brew install gpg pinentry-mac
 ```
 
 ## Inspiration
