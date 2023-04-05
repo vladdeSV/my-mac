@@ -17,7 +17,7 @@ It's like Spotlight, but better. I use it mainly to switch applications and to d
 ### [iTerm2](https://iterm2.com/downloads/stable/latest)
 It's a terminal emulator. When first deciding between emulators, what initially got me to stick with this was it multi-pane feature. This allows me to have two sessions next to eachother. After using it for 3+ years I've come to like its many features.
 
-*Extra: See my [dotfiles](https://github.com/dotfiIes/vladdeSV)*
+*Extra: See my [dotfiles](https://github.com/vladdeSV/dotfiles)*
 
 ### [Bartender](https://www.macbartender.com/Demo/Bartender%203.zip) ![Paid][Paid]
 Allows me to hide and semi-hide icons in the menu bar. Love it.
