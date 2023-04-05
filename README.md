@@ -1,5 +1,6 @@
 # my-mac
-Showcase of my MacBook Pro (13-inch, 2017)
+Showcase of my MacBook Pro (13-inch, 2017).  Take a look at [`vladdeSV/my-windows`](https://github.com/vladdeSV/my-windows).
+
 
 ![Paid][Paid] the software requires a payment for continued usage. These come with a free trial.\
 ![Upgrade][Upgrade] the software has a paid upgrade, but does not require a payment for continued usage.\
