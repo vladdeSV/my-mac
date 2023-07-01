@@ -33,6 +33,18 @@ Resizes any window to some predfined areas with keyboard shortcuts. I maximize (
 
 I previously used Magnet, but it has less features and costs money.
 
+## Creative
+### [Affinity Photo 2](https://affinity.serif.com/en-us/photo/) ![Paid][Paid]
+Faster and cheaper alternative to Adobe Photoshop. I don't usually work with photos, but this covers everything I need.
+
+### [Affinity Designer 2](https://affinity.serif.com/en-us/designer/) ![Paid][Paid]
+Faster and cheaper alternative to Adobe Illustrator. Pretty nice to work with!
+
+The icons ![Paid][Paid] ![Upgrade][Upgrade] ![Open-Source][Open-Source] are all made with this program.
+
+### [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/) ![Paid][Paid]
+Competitor for Adobe InDesign.
+
 ## Other Software
 These things don't really make up for a showcase of tools I suggest you use, but they are part of my daily routine.
 
