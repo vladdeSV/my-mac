@@ -12,9 +12,6 @@ Showcase of my MacBook Pro (13-inch, 2017).  Take a look at [`vladdeSV/my-window
 
 ## Software
 
-### [Alfred](https://www.alfredapp.com/) ![Upgrade][Upgrade]
-It's like Spotlight, but better. I use it mainly to switch applications and to do Google searches. The paid version has extra features, but I highly suggest getting it even if you don't want to pay for it.
-
 ### [iTerm2](https://iterm2.com/downloads/stable/latest)
 It's a terminal emulator. When first deciding between emulators, what initially got me to stick with this was it multi-pane feature. This allows me to have two sessions next to eachother. After using it for 3+ years I've come to like its many features.
 
@@ -35,13 +32,6 @@ Hands down, the best Git client I've used. I even prefer this over the terminal.
 Resizes any window to some predfined areas with keyboard shortcuts. I maximize (not fullscreen) windows all the time, and often I resize windows to half the screen space.
 
 I previously used Magnet, but it has less features and costs money.
-
-### [MouseDef](https://github.com/zenangst/MouseDef) ![Open-Source][Open-Source]
-⚠ This software is still in alpha, and it has some bugs.
-
-Allows me to drag and resize any window by hoovering the cursor anywhere on a window and holding either <kbd>⌘</kbd><kbd>⇧</kbd> or <kbd>⌘</kbd><kbd>fn</kbd>. I have a hard time seeing myself going back from this.
-
-This got me so hooked I had to get the [same featureset on my Windows machine](https://github.com/vladdeSV/my-ahk-scripts/blob/master/Scripts/EasyWindowDrag.ahk).
 
 ## Other Software
 These things don't really make up for a showcase of tools I suggest you use, but they are part of my daily routine.
