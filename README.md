@@ -1,6 +1,5 @@
 # my-mac
-Showcase of my MacBook Pro (13-inch, 2017).  Take a look at [`vladdeSV/my-windows`](https://github.com/vladdeSV/my-windows).
-
+Showcase of my MacBook Pro (14-inch, 2023).  Take a look at [`vladdeSV/my-windows`](https://github.com/vladdeSV/my-windows).
 
 ![Paid][Paid] the software requires a payment for continued usage. These come with a free trial.\
 ![Upgrade][Upgrade] the software has a paid upgrade, but does not require a payment for continued usage.\
@@ -54,7 +53,7 @@ The most refershing browser I have seen in quite a while, with a mobile alternat
 ### [Spotify](https://www.spotify.com/en/download/mac/) ![Paid][Paid]
 I listen to a lot of music. The monthly subscription for Spotify Premium is a must for me. Technically free with ads.
 
-### [Visual Studio Code](https://code.visualstudio.com/) ![Open-Source][Open-Source]
+### [Zed](https://zed.dev/) ![Open-Source][Open-Source]
 All-purpose editor. Very neat. Highly suggest you get.
 
 ### [1Password](https://1password.com/) ![Paid][Paid]
@@ -65,21 +64,11 @@ A really simple and powerful tool to optimize images. I just plonk any images in
 
 ImageOptim follows the UNIX philosophy; "Do One Thing And Do It Well".
 
-## CLI
+### [UTM](https://mac.getutm.app/) ![Open-Source][Open-Source]
+Emulation and virtualization, best option for macOS in my opinion.
 
-### [tea.xyz](https://tea.xyz/) ![Open-Source][Open-Source]
-I cannot understate how useful this tool is. It's like the AppStore for the command-line. Download, update, and remove software.
-
-```sh
-sh <(curl https://tea.xyz)
-```
-
-### [brew](https://brew.sh/) ![Open-Source][Open-Source]
-My former go-to tool (replaced by tea.xyz). I use this to get some otherwise hard to get tools.
-
-```sh
-brew install gpg pinentry-mac
-```
+### [Macs Fan Control](https://crystalidea.com/macs-fan-control) ![Upgrade][Upgrade]
+Allows me to crank up the fans so I can hear them, and also show computer temperature in the menu bar.
 
 ## Inspiration
 This list was inspired by Nikita Voloboev's [`nikitavoloboev/my-mac-os`](https://github.com/nikitavoloboev/my-mac-os).
